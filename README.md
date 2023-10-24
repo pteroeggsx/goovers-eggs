@@ -2,4 +2,4 @@
 
 repo for my Eggs. Support only in my Discord Server and not in official Pterodactyl Discord.
 
-Discord: https://discord.me/goover
+Discord: https://discord.gg/raurR4vshX
