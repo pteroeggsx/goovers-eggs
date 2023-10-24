@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2023-10-23T16:30:18+02:00",
+    "exported_at": "2023-10-24T16:35:02+02:00",
     "name": "The Front",
     "author": "info@goover.de",
     "description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire.",
@@ -226,16 +226,6 @@
             "user_viewable": true,
             "user_editable": true,
             "rules": "nullable",
-            "field_type": "text"
-        },
-        {
-            "name": "WINDOWS_INSTALL",
-            "description": "DO NOT REMOVE !!!!",
-            "env_variable": "WINDOWS_INSTALL",
-            "default_value": "1",
-            "user_viewable": false,
-            "user_editable": false,
-            "rules": "required|boolean",
             "field_type": "text"
         }
     ]
