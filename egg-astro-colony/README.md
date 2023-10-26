@@ -16,7 +16,7 @@ Steam: https://store.steampowered.com/app/1614550/Astro_Colony/
 
 ### Server Ports
 
-Sons of the Forest requires only 1 port. You can choose every port you want.
+AstroColony requires only 1 port. You can choose every port you want.
 
 | Port    | default       |
 |---------|---------------|
